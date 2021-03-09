@@ -1,0 +1,9 @@
+com\banking1\testcases\addcustomertestcase_1.class
+com\banking1\testcases\Baseclass.class
+com\banking1\pageobjects\Addcustomerpage.class
+com\banking1\testcases\logintestcase_Excel.class
+com\banking1\utilites\readconfig.class
+com\banking1\pageobjects\loginpage.class
+com\banking1\utilites\XLutils.class
+com\banking1\testcases\logintestcase_1.class
+com\banking1\utilites\reporting.class

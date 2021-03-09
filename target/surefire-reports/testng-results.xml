@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="banking1_sdet" duration-ms="58683" started-at="2021-03-03T23:36:22 IST" finished-at="2021-03-03T23:37:20 IST">
+    <groups>
+    </groups>
+    <test name="bankingapp test" duration-ms="58683" started-at="2021-03-03T23:36:22 IST" finished-at="2021-03-03T23:37:20 IST">
+      <class name="com.banking1.testcases.addcustomertestcase_1">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.banking1.testcases.addcustomertestcase_1@68bbe345]" name="setup" is-config="true" duration-ms="28383" started-at="2021-03-03T23:36:22 IST" finished-at="2021-03-03T23:36:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addnewcustomer()[pri:0, instance:com.banking1.testcases.addcustomertestcase_1@68bbe345]" name="addnewcustomer" duration-ms="14894" started-at="2021-03-03T23:36:50 IST" finished-at="2021-03-03T23:37:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addnewcustomer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.banking1.testcases.addcustomertestcase_1@68bbe345]" name="teardown" is-config="true" duration-ms="0" started-at="2021-03-03T23:37:05 IST" finished-at="2021-03-03T23:37:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.banking1.testcases.addcustomertestcase_1 -->
+      <class name="com.banking1.testcases.logintestcase_1">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.banking1.testcases.logintestcase_1@30b8a058]" name="setup" is-config="true" duration-ms="12648" started-at="2021-03-03T23:37:05 IST" finished-at="2021-03-03T23:37:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.banking1.testcases.logintestcase_1@30b8a058]" name="logintest" duration-ms="2681" started-at="2021-03-03T23:37:18 IST" finished-at="2021-03-03T23:37:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.banking1.testcases.logintestcase_1@30b8a058]" name="teardown" is-config="true" duration-ms="1" started-at="2021-03-03T23:37:20 IST" finished-at="2021-03-03T23:37:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.banking1.testcases.logintestcase_1 -->
+    </test> <!-- bankingapp test -->
+  </suite> <!-- banking1_sdet -->
+</testng-results>
